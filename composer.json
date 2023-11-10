@@ -1,0 +1,14 @@
+{
+    "name": "aregulado/yousource-php-project",
+    "authors": [
+        {
+            "name": "Anthony Regulado",
+            "email": "ajregulado@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": ["controller/", "model/", "./"]
+        }
+    }
+}
